@@ -629,5 +629,3 @@ _foundry tests are for testing the functionality of will smart contract , and si
    ```sh
    $ yarn test
    ```
-
-> Well to be honest I wasn't able to run the hardhat tests because I couldn't run the local setup for testing from zksync, it's heavy for my machine 😄.so there is no hardhat testing.
