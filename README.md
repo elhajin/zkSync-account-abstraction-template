@@ -1,6 +1,6 @@
 ## 💎 💎 💎 <span style="color:#c94d68"> Elhaj </span> 💎 💎 💎
 
-- before we go through the wheel account I highly recommend you to read [this](./will.md)
+- before we go through the **will** account I highly recommend you to read [this](./will.md)
 
 # WillAccount:
 
